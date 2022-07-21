@@ -4,7 +4,7 @@
 
 Submitted by: **Ghion Worku**
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -30,17 +30,20 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/6nRJWtP.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+- first time using Xcode IDE and Swift language (however, these software development products proved to be very interesting to learn and practice with)
+- keyboard showed up at first but disappeared after a while (command + K or "Toggle Software Keyboard" fixed this issue)
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Ghion Worku]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
