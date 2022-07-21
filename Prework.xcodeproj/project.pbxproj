@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		BEA6FC922887044B004E9E01 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
-		BED4695B2885129F005C2695 /* Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BED4695B2885129F005C2695 /* Tip Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tip Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED4695E2885129F005C2695 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BED469602885129F005C2695 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BED469622885129F005C2695 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -92,7 +92,7 @@
 		BED4695C2885129F005C2695 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BED4695B2885129F005C2695 /* Prework.app */,
+				BED4695B2885129F005C2695 /* Tip Calculator.app */,
 				BED46971288512A1005C2695 /* PreworkTests.xctest */,
 				BED4697B288512A1005C2695 /* PreworkUITests.xctest */,
 			);
@@ -135,9 +135,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BED4695A2885129F005C2695 /* Prework */ = {
+		BED4695A2885129F005C2695 /* Tip Calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BED46985288512A1005C2695 /* Build configuration list for PBXNativeTarget "Prework" */;
+			buildConfigurationList = BED46985288512A1005C2695 /* Build configuration list for PBXNativeTarget "Tip Calculator" */;
 			buildPhases = (
 				BED469572885129F005C2695 /* Sources */,
 				BED469582885129F005C2695 /* Frameworks */,
@@ -147,9 +147,9 @@
 			);
 			dependencies = (
 			);
-			name = Prework;
+			name = "Tip Calculator";
 			productName = Prework;
-			productReference = BED4695B2885129F005C2695 /* Prework.app */;
+			productReference = BED4695B2885129F005C2695 /* Tip Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 		BED46970288512A1005C2695 /* PreworkTests */ = {
@@ -224,7 +224,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BED4695A2885129F005C2695 /* Prework */,
+				BED4695A2885129F005C2695 /* Tip Calculator */,
 				BED46970288512A1005C2695 /* PreworkTests */,
 				BED4697A288512A1005C2695 /* PreworkUITests */,
 			);
@@ -292,12 +292,12 @@
 /* Begin PBXTargetDependency section */
 		BED46973288512A1005C2695 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BED4695A2885129F005C2695 /* Prework */;
+			target = BED4695A2885129F005C2695 /* Tip Calculator */;
 			targetProxy = BED46972288512A1005C2695 /* PBXContainerItemProxy */;
 		};
 		BED4697D288512A1005C2695 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BED4695A2885129F005C2695 /* Prework */;
+			target = BED4695A2885129F005C2695 /* Tip Calculator */;
 			targetProxy = BED4697C288512A1005C2695 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -578,7 +578,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BED46985288512A1005C2695 /* Build configuration list for PBXNativeTarget "Prework" */ = {
+		BED46985288512A1005C2695 /* Build configuration list for PBXNativeTarget "Tip Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BED46986288512A1005C2695 /* Debug */,
